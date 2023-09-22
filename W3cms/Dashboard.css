@@ -1,0 +1,14 @@
+.badge{
+    color: #ff6a59;
+    background-color: #ff6a591a;
+}
+body{
+    background-color: #f2ebeb;
+}
+.menu-sidebar i{
+    color:#ff6a59;
+}
+.menu-sidebar li:hover{ 
+    background-color: #ff6a59;
+    border-radius:10px;    
+}
